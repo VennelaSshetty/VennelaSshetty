@@ -1,8 +1,6 @@
 
 <h1 align="center">Hi 👋, I'm Vennela S Shetty</h1>
-- 🌱 I’m currently learning **Java**
-
-<h3 align="left">Connect with me:</h3>
+- 🌱 I’m currently learning Java
 <p align="left">
 </p>
 
